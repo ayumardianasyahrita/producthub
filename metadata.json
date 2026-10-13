@@ -1,0 +1,6 @@
+{
+  "name": "ProductHub Apps - Portofolio & Penjualan Web App GAS",
+  "description": "Etalase portofolio dan katalog penjualan web app Google Apps Script siap pakai untuk otomasi bisnis dan produktivitas UKM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
